@@ -47,4 +47,4 @@ Currently exploring new projects — let's build something together.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xilham&layout=compact&theme=dark)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=0xilham.0xilham)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=thesankar)
